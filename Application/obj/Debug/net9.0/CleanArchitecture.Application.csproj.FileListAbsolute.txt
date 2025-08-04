@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\CleanArchitecture\Application\bin\Debug\net9.0\CleanArchitecture.CleanArchitecture.Application.deps.json
+C:\Users\dell\source\repos\CleanArchitecture\Application\bin\Debug\net9.0\CleanArchitecture.CleanArchitecture.Application.dll
+C:\Users\dell\source\repos\CleanArchitecture\Application\bin\Debug\net9.0\CleanArchitecture.CleanArchitecture.Application.pdb
+C:\Users\dell\source\repos\CleanArchitecture\Application\bin\Debug\net9.0\CleanArchitecture.CleanArchitecture.Domain.dll
+C:\Users\dell\source\repos\CleanArchitecture\Application\bin\Debug\net9.0\CleanArchitecture.CleanArchitecture.Domain.pdb
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArchitecture.Application.sourcelink.json
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArc.03AFA812.Up2Date
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArchitecture.CleanArchitecture.Application.dll
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\refint\CleanArchitecture.CleanArchitecture.Application.dll
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\CleanArchitecture.CleanArchitecture.Application.pdb
+C:\Users\dell\source\repos\CleanArchitecture\Application\obj\Debug\net9.0\ref\CleanArchitecture.CleanArchitecture.Application.dll

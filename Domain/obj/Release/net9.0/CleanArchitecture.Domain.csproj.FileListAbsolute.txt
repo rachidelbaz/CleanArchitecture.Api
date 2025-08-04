@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\CleanArchitecture\Domain\bin\Release\net9.0\CleanArchitecture.CleanArchitecture.Domain.deps.json
+C:\Users\dell\source\repos\CleanArchitecture\Domain\bin\Release\net9.0\CleanArchitecture.CleanArchitecture.Domain.dll
+C:\Users\dell\source\repos\CleanArchitecture\Domain\bin\Release\net9.0\CleanArchitecture.CleanArchitecture.Domain.pdb
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\CleanArchitecture.Domain.sourcelink.json
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\CleanArchitecture.CleanArchitecture.Domain.dll
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\refint\CleanArchitecture.CleanArchitecture.Domain.dll
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\CleanArchitecture.CleanArchitecture.Domain.pdb
+C:\Users\dell\source\repos\CleanArchitecture\Domain\obj\Release\net9.0\ref\CleanArchitecture.CleanArchitecture.Domain.dll

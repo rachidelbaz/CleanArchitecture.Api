@@ -1,0 +1,8 @@
+ClientApp/node_modules/
+# Ignore bin folders in root and specific subdirectories
+/bin/
+/API/bin/
+/Application/bin/
+/Domain/bin/
+/Infrastructure/bin/
+.vs/
